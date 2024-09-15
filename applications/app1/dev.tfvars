@@ -1,0 +1,6 @@
+app_name="app1-dev"
+vpc_cidr ="10.120.0.0/16"
+sub_cidr ="10.120.10.0/24"
+ami_id = "ami-0a5c3558529277641"
+key_name = "linuxkeypair"
+instance_type = "t2.micro"

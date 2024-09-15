@@ -1,0 +1,5 @@
+ami_id ="ami-0a5c3558529277641"
+instance_type = "t2.micro"
+key_name ="linuxkeypair"
+ec2_name = "batch2_server1"
+ec2_sub_id = "subnet-0b6a797a5239ea78b"

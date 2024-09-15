@@ -1,0 +1,7 @@
+vpc_cidr ="10.15.0.0/16"
+vpc_name="dvs_vpc1"
+igw_name="dvs_vpc_igw"
+rtb_name="dvs_vpc_route1"
+sub_cidr="10.15.10.0/24"
+sub_name="dvs_vpc_sub1"
+sg_name="dvs_vpc_sg1"

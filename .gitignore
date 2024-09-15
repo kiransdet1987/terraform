@@ -1,0 +1,11 @@
+.aws
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.cshrc
+.ssh
+.tcshrc
+.terraform.d
+.viminfo
+
